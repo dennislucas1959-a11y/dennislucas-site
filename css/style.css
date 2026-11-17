@@ -119,6 +119,10 @@ h1, h2, h3 { font-weight: 400; line-height: 1.15; margin: 0; }
 .lb-prev { left: .6rem; top: 50%; transform: translateY(-50%); }
 .lb-next { right: .6rem; top: 50%; transform: translateY(-50%); }
 
+/* ---------- Contact ---------- */
+.contact-cta { margin-top: 1rem; }
+.contact-alt { color: var(--creme-soft); margin-top: 1.2rem; font-size: 1.15rem; overflow-wrap: anywhere; }
+
 /* ---------- Footer ---------- */
 .site-footer {
   border-top: 1px solid var(--line); max-width: 1240px; margin: 0 auto; padding: 2rem 1.5rem 3rem;
